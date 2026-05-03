@@ -1,25 +1,3 @@
-SHORT VERSION:
-# Arcade Chaos Shooter
-
-A modular 2D arcade shooter built in Python (Pygame), featuring multiple game modes, dynamic weapon loadouts, and multi-phase boss fights.
-
-## Highlights
-- 5 game modes (Classic, Endless, Boss Rush, Chaos, Hardcore)
-- Object-oriented weapon system (spread, homing, laser, shotgun)
-- Pattern-based enemy and boss design
-- Loadout system with limited weapon slots
-- Screen shake, particles, and visual feedback
-
-## Tech
-- Python
-- Pygame
-
-
-
-
-
-
-DETAILED:
 Arcade Chaos Shooter
 
 Designed and developed a modular 2D arcade shooter in Python (Pygame), using iterative prototyping and AI-assisted development while focusing on gameplay systems, debugging, and performance optimization.
